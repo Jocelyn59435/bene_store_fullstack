@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "frontend:install": "cd bene_store_frontend && npm install -g @angular/cli && npm install --save-dev @angular-devkit/build-angular",
+    "backend:install": "cd bene_store_backend && npm install",
+    "frontend:build": "cd bene_store_frontend && npm run build",
+    "backend:build": "cd bene_store_backend && npm run build",
+    "backend:test": "cd bene_store_backend && npm run jasmine",
+    "backend:deploy": "cd bene_store_backend && npm run deploy",
+    "frontend:deploy": "cd bene_store_frontend && npm run deploy"
+  }
+}
