@@ -9,7 +9,7 @@
     "start": "nodemon server.js",
     "clean": "rm -rf build/ || true",
     "build": "npm run clean && tsc && cp package.json build/package.json && cd build && zip -r Archive.zip . && cd ..",
-    "deploy": "npm run build && chmod +x bin\\deploy.sh && bin\\deploy.sh"
+    "deploy": "npm run build && chmod +x ./bin/deploy.sh && ./bin/deploy.sh"
   },
   "author": "Udacity",
   "license": "ISC",

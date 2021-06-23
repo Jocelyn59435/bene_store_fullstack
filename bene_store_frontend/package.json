@@ -7,7 +7,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "build": "ng build",
-    "deploy": "chmod +x bin\\deploy.sh && bin\\deploy.sh"
+    "deploy": "chmod +x ./bin/deploy.sh && ./bin/deploy.sh"
   },
   "private": true,
   "dependencies": {
