@@ -5,6 +5,7 @@
     "frontend:build": "cd bene_store_frontend && npm run build",
     "backend:build": "cd bene_store_backend && npm run build",
     "backend:test": "cd bene_store_backend && npm run jasmine",
+    "frontend:test": "cd bene_store_frontend && npm run test",
     "backend:deploy": "cd bene_store_backend && npm run deploy",
     "frontend:deploy": "cd bene_store_frontend && npm run deploy"
   }
