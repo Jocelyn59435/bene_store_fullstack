@@ -8,5 +8,5 @@ http://benefrontend.s3-website-us-east-1.amazonaws.com/
 
 ## Status Badge
 
-[![CircleCI](https://circleci.com/gh/jocelyn59435/bene_store_fullstack.svg?style=svg)]
+[![CircleCI](https://circleci.com/gh/jocelyn59435/bene_store_fullstack.svg?style=svg&circle-token=3f5a4e4a410589477e28da0e77a5a5e1f837d230)]
 For more details, please refer to **docs** folder.
