@@ -3,5 +3,6 @@
 - Builds frontend for the application
 - Builds backend for the application
 - Runs tests for backend
+- Runs tests for frontend
 - Deploys Backend to AWS Elastic BeanStalk
 - Hosts Angular application on S3

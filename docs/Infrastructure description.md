@@ -5,6 +5,6 @@
 - The front-end query product-list data from backend via product index route:
   http://beneapi.us-east-1.elasticbeanstalk.com/products
 - Infrastucture diagram:
-  ![diagram](../screenshots/diagram.png)
+  <img src="https://github.com/Jocelyn59435/bene_store_fullstack/blob/master/screenshots/diagram.png" width="200" height="500">
 - Pipeline diagram:
   ![diagram](../screenshots/circleci_pipeline_diagram.png)
