@@ -4,5 +4,7 @@
 - The database is Postgres from RDS.
 - The front-end query product-list data from backend via product index route:
   http://beneapi.us-east-1.elasticbeanstalk.com/products
-- diagram:
+- Infrastucture diagram:
   ![diagram](../screenshots/diagram.png)
+- Pipeline diagram:
+  ![diagram](../screenshots/circleci_pipeline_diagram.png)

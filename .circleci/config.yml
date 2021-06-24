@@ -37,6 +37,11 @@ jobs:
           name: Backend Test
           command: |
             npm run backend:test
+      # Runs tests for frontend
+      - run:
+          name: Frontend Test
+          command: |
+            npm run frontend:test
       # Deploys API to AWS Elastic BeanStalk
       - run:
           name: BackEnd Deploy
