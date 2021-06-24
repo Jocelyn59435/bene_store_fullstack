@@ -36,6 +36,7 @@
 
 - "@types/express": "^4.17.9",
 - "@types/pg": "^7.14.7",
+- "dotenv": "^10.0.0",
 - "body-parser": "^1.19.0",
 - "cors": "^2.8.5",
 - "express": "^4.17.1",
